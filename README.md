@@ -1,9 +1,9 @@
 # nodejs-app
-mkdir nodejs-app
-cd nodejs-app
-npm init -y
+# mkdir nodejs-app
+# cd nodejs-app
+# npm init -y
 
-npm install express mongoose ejs bcryptjs express-session connect-flash passport passport-local
+# npm install express mongoose ejs bcryptjs express-session connect-flash passport passport-local
 
 nodejs-app/
 │
